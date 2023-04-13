@@ -3,6 +3,7 @@ Writing is an essential mode of communication that enables individuals to expres
 
 
 ### Methodology
+![image](https://user-images.githubusercontent.com/68593617/231810459-7e7a0c60-5eb3-4537-b220-73aebb2934ad.png)
 
 <hr>
 
@@ -15,6 +16,10 @@ Hardware: Camera<br>
 Python version: 3.8<br>
 
 <hr>
+### Demo
+![image](https://user-images.githubusercontent.com/68593617/231810685-07410d61-a6b3-4aec-aef7-a7a2b4d980a6.png)
 
+
+<hr>
 ### Contact 📞
 If you have any doubt feel free to email me or hit me up on <a href="https://www.linkedin.com/in/chebrolu-tejaswi/">LinkedIn</a>
